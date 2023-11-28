@@ -1,5 +1,5 @@
 # FEEDBACK-ERP-SYSTEM
-## This project is based on Online Student Feedback system , which reduces the strenuous work of physically examining the feedback pages of each and every student.
+### This project is based on Online Student Feedback system , which reduces the strenuous work of physically examining the feedback pages of each and every student.
 
 # About The Project
 * The system also reduces the burden of efforts and burden of keeping and maintaining the records on a manual base, it requires a lot of space and safety to keep up such records.
