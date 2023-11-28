@@ -1,5 +1,5 @@
 # FEEDBACK-ERP-SYSTEM
-This type of Student Feedback system reduces, the strenuous work of physically examining the feedback pages of each and every student.
+## This type of Student Feedback system reduces, the strenuous work of physically examining the feedback pages of each and every student.
 
 # About The Project
 * The system also reduces the burden of efforts and burden of keeping and maintaining the records on a manual base, it requires a lot of space and safety to keep up such records.
@@ -43,7 +43,7 @@ This type of Student Feedback system reduces, the strenuous work of physically e
 # Software Requirements <br>
 * XAMPP server <br>
   
-# Language Used <br>
-* Front End : HTML 5 ,BOOTSTRAP <br>
+# Languages Used <br>
+* Front-End : HTML 5 ,BOOTSTRAP <br>
 * Server Language : PHP 5.5 <br>
 * Backe-End : MYSQL<br>
