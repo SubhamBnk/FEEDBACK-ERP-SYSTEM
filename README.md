@@ -7,10 +7,10 @@ This type of Student Feedback system reduces, the strenuous work of physically e
 * Another important features of the SFS is that physical presence of neither the admin nor the student is required for the either giving the feedback nor for assessing the feedback.
 * Also further enhancement can be done and more features can be added for better retrieval of the feedback details.
 
-# System Actors(Users)
-* Admin
-* Faculty
-* Student
+# System Actors(Users) <br>
+* Admin <br>
+* Faculty <br>
+* Student <br>
 
 # Admin Features
 * Admin Login
