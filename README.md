@@ -13,37 +13,37 @@ This type of Student Feedback system reduces, the strenuous work of physically e
 * Student <br>
 
 # Admin Features
-* Admin Login
-* Admin can add new faculty
-* Admin can View faculty list
-* Admin can Update faculty data
-* Admin can Delete faculty
-* Admin can Manage Student
-* Admin can Check feedback given by student
-* Admin can check average feedback for faculty
-* Admin can update the contact details dynamically
-* Admin can update password
+* Admin Login <br>
+* Admin can add new faculty <br>
+* Admin can View faculty list <br>
+* Admin can Update faculty data <br>
+* Admin can Delete faculty <br>
+* Admin can Manage Student <br>
+* Admin can Check feedback given by student <br>
+* Admin can check average feedback for faculty <br>
+* Admin can update the contact details dynamically <br>
+* Admin can update password <br>
 
 # Faculty Features
-* Faculty can login
-* Faculty can update their profile
-* Faculty can update Password
-* Faculty can Check feedback given by students
-* Faculty can check average feedback given by students
-* Logout
+* Faculty can login <br>
+* Faculty can update their profile <br>
+* Faculty can update Password <br>
+* Faculty can Check feedback given by students <br>
+* Faculty can check average feedback given by students <br>
+* Logout <br>
 
 # Student Features
-* Student can Register
-* Student can Login
-* Student can view profile
-* Student can update profile
-* Student can update Password
-* Student can choose faculty and give feedback for every Questions
+* Student can Register <br>
+* Student can Login <br>
+* Student can view profile <br>
+* Student can update profile <br>
+* Student can update Password <br>
+* Student can choose faculty and give feedback for every Questions <br>
 
-# Software Requirements
-* XAMPP server
+# Software Requirements <br>
+* XAMPP server <br>
   
-# Language Used
-* Front End : HTML 5 ,BOOTSTRAP
-* Server Language : PHP 5.5
-* Backe-End : MYSQL
+# Language Used <br>
+* Front End : HTML 5 ,BOOTSTRAP <br>
+* Server Language : PHP 5.5 <br>
+* Backe-End : MYSQL<br>
